@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/4wqxHID.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
+     
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d3f91b83-0e3f-44b3-9316-1394b488bb6b)
+
 </p>
 
 <h1>Microsoft Azure</h1>
@@ -15,8 +17,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 <h3>Step 1: Create an Azure Account</h3>
 
-
-Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Start Free
 - Follow the prompt to create the account 
      - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then
@@ -24,9 +24,9 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
      - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
 
 
-<p align="center">
-<img src="https://i.imgur.com/rk4SD27.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+ ![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/683a27fa-6560-49dd-bf22-b1c9ba29ffc8)
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/9d498615-bbef-4155-9403-bdadc2de973a)
+
 
 
 <h3>Step 2: Create a Resource Group</h3>
@@ -37,9 +37,10 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Review + Create on the lower left
     - For this example, we will be using RG-Lab-1 for the name and (US) West 3 for the region
 
-<p align="center">
-<img src="https://i.imgur.com/Afnk87u.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yBBln5a.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/e0f1c1f4-f162-4a4f-9990-81248c9221b1)
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/7b828305-259e-49da-af71-a8cf7af7e4d5)
+
+
 
 <h3>Step 3: Create a Storage Account</h3>
 
@@ -50,9 +51,10 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
     - Use the same resource group and region as step 2
 - Select Review, then Create
 
-<p align="center">
-<img src="https://i.imgur.com/zhb3GHZ.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/91b03864-a0b8-4572-a124-20702b911024)
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d0e6dbfa-37e9-442d-b86c-b91a916287a3)
+
+
 
 
 <h3>Step 4: Create a Virtual Machine</h3>
@@ -63,10 +65,10 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
     - For thise example, we will name the virtual machine "virtualmachine"
     - Use the same resource group and region as steps 2 and 3
 
-<p align="center">
-<img src="https://i.imgur.com/y0RafHM.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/PCJ3QAr.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
- 
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d34c6a17-1ecb-4dc0-b6c0-05992875858b)
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/2a2eb7fb-93e1-4652-86fe-fdab55c4d339)
+
+
 
 
 
@@ -79,9 +81,8 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 * Click the box under licensing and finally click Review + Create 
 
 
-<p align="center">
-<img src="https://i.imgur.com/p9UJXND.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/GHBDae0.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/0d1a458c-6aee-4f21-8a24-b3a515c590ff)
+
  
      
 
@@ -91,8 +92,8 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
    - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
    - Copy the public IP address
 
-<p align="center">
-<img src="https://i.imgur.com/T4Oc2RX.png" height="80%" width="80%" alt="Azure Free Account"/>
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/59119219-039a-4abf-a562-5566e5a9813b)
+
 
 * Mac Users 
    - Download Microsoft Remote Desktop
@@ -107,22 +108,15 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
      - Enter the username and password from step 4
      - Select OK
   
-     
-     
- <p align="center">
-<img src="https://i.imgur.com/14pPOdv.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Og3LKyd.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/cf223864-6c5d-4815-8e5f-268aecb0d09b)
 
 
 
 
 
-🎉Congratulations! You have created your first virtual machine within Azure!🎉
 
-<p align="center">
+You have created your first virtual machine within Azure!
+
+
 <img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>Tip</h3>
-
--  If you want to save your free $200 credits, make sure you delete ALL your resources and resource groups after finishing!    
-  
